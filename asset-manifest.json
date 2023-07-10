@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/contact-mamager/static/js/main.56c24a54.js",
-    "index.html": "/contact-mamager/index.html",
-    "main.56c24a54.js.map": "/contact-mamager/static/js/main.56c24a54.js.map"
+    "main.js": "/contact-manager/static/js/main.56c24a54.js",
+    "index.html": "/contact-manager/index.html",
+    "main.56c24a54.js.map": "/contact-manager/static/js/main.56c24a54.js.map"
   },
   "entrypoints": [
     "static/js/main.56c24a54.js"
